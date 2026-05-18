@@ -35,3 +35,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enco-shark&layout=compact&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enco-shark&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </picture>
+
+</div>
