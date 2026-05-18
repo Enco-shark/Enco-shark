@@ -15,14 +15,14 @@
     <img src="https://komarev.com/ghpvc/?username=Enco-shark&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&letterSpacing=-1px&pause=1200&color=444444&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=Hi+👋+I'm+Enco;Still+making+sense+of+JavaScript;Always+learning+something+new)](https://git.io/typing-svg)
+
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
   <img src="/profile-night-rainbow.svg" />
 </picture>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&letterSpacing=-1px&pause=1200&color=444444&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=Hi+👋+I'm+Enco;Still+making+sense+of+JavaScript;Always+learning+something+new)](https://git.io/typing-svg)
 
 <!-- Star History -->
 <a href="https://star-history.com/#Enco-shark/Enco-shark&Date">
