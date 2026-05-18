@@ -14,7 +14,14 @@
     <a href="https://Enco-shark.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Enco-shark&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
-  
+
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&letterSpacing=-1px&pause=1200&color=444444&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=Hi+👋+I'm+Enco;Still+making+sense+of+JavaScript;Always+learning+something+new)](https://git.io/typing-svg)
 
 <!-- Star History -->
@@ -25,13 +32,6 @@
     <img src="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date" alt="Star History" />
   </picture>
 </a>
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
 
 <!-- GitHub Stats 数据卡片 -->
 <picture>
