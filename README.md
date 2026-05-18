@@ -24,15 +24,6 @@
   <img src="/profile-night-rainbow.svg" />
 </picture>
 
-<!-- Star History -->
-<a href="https://star-history.com/#Enco-shark/Enco-shark&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date" />
-    <img src="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date" alt="Star History" />
-  </picture>
-</a>
-
 <!-- GitHub Stats 数据卡片 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Enco-shark&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=58a6ff&text_color=c9d1d9" />
