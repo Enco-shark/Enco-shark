@@ -15,7 +15,35 @@
     <img src="https://komarev.com/ghpvc/?username=Enco-shark&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&letterSpacing=-1px&pause=1000&color=444444&background=FFFFFF00&center=false%E5%81%87&vCenter=false%E5%81%87&multiline=true&repeat=true%E7%9C%9F&random=false%E5%81%87&width=600&lines=Still+making+sense+of+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&letterSpacing=-1px&pause=1200&color=444444&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=Hi+👋+I'm+Enco;Still+making+sense+of+JavaScript;Always+learning+something+new)](https://git.io/typing-svg)
+
+<!-- GitHub Stats 数据卡片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Enco-shark&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Enco-shark&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enco-shark&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</picture>&emsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enco-shark&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enco-shark&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enco-shark&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</picture>
+
+<!-- GitHub Streak 连续贡献 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Enco-shark&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Enco-shark&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enco-shark&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<!-- Star History -->
+<a href="https://star-history.com/#Enco-shark/Enco-shark&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date" />
+    <img src="https://api.star-history.com/svg?repos=Enco-shark/Enco-shark&type=Date" alt="Star History" />
+  </picture>
+</a>
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
