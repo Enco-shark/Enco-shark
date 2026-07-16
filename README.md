@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=Enco-shark&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&letterSpacing=-1px&pause=1200&color=444444&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=Hi+👋+I'm+Enco;Still+making+sense+of+JavaScript;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&letterSpacing=-1px&pause=1200&color=444444&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=Hi+👋+I'm+Enco)](https://git.io/typing-svg)
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
